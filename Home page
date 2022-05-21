@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Facility Booking</title>
+
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;0,600;1,600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="home.css">
+
+</head>
+
+<body>
+
+    <nav class="navbar">
+        <img src="images/col.png" alt="College Logo" width="250" height="55" class="d-inline-block align-text-top" class="logo" alt="">
+        <ul class="links-container">
+            <!--<li class="link-item"><a href="facility.php" class="link">Facilities</a></li>-->
+            <li class="link-item"><a href="register.php" class="link"><b>Register</b></a></li>
+            <li class="link-item"><a href="login.php" class="link"><strong>Login</strong></a></li>
+            <li class="link-item"><a href="feedback.php" class="link"><b>Feedback</b>   </a></li>
+        </ul>
+    </nav>
+    
+
+    
+    <header class="header">
+        <div class="content">
+            <h1 align="left" class="heading"><br><br><br><br><br><br><br><br><br><br>
+            <marquee vspace="50%" direction="left"> Hello Everyone</marquee>
+
+            </h1>
+        </div>
+    </header>
+    
+
+</body>
+
+</html>
